@@ -4,3 +4,10 @@
 @import "{{ site.theme }}";
 #footer_wrap {display: none;}
 #forkme_banner {display: none;}
+
+body {
+		margin-top: 100px;
+		margin-right: 40px;
+		margin-bottom: 10px;
+		margin-left: 70px;
+	}
