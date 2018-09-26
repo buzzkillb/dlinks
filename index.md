@@ -4,9 +4,8 @@ title: [DNR] Denarius Links
 tagline: Denarius Coin Links
 description: Denarius Crypto Links
 ---
-# Denarius Coin Link List
+# ![Denarius](https://denarius.io/wp-content/uploads/2017/11/denarius-256.png)
 
-## Official
 [https://denarius.io/](https://denarius.io/)  
 [https://denarius.host/](https://denarius.host/)  
 [https://denariustalk.org/](https://denariustalk.org/)  
@@ -15,7 +14,7 @@ description: Denarius Crypto Links
 [https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363](https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363)  
 
 ## White Scroll
-https://denarius.io/whitescroll.pdf  
+[https://denarius.io/whitescroll.pdf](https://denarius.io/whitescroll.pdf)  
 
 ## Source Code and Project
 https://github.com/carsenk  
