@@ -98,3 +98,72 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Agama Windows](https://artifacts.supernet.org/latest/installer_windows.html)  
 [Agama OSX](https://artifacts.supernet.org/latest/installer_osx.html)  
 [Agama Linux](https://artifacts.supernet.org/latest/installer_linux.html)  
+
+### Apps
+**Chrome**  
+https://chrome.google.com/webstore/detail/simple-denarius-ticker/nhkhjmkllndkhcplgbjkchgomcfjpnnd  
+**MacOS**  
+https://github.com/carsenk/touchbardenarius  
+
+### Atomic Swaps  
+https://github.com/KomodoPlatform/BarterDEX/releases  
+
+### Masternodes  
+https://masternodes.online/currencies/DNR/  
+https://mynode.rocks/#/masternodes/detail/10  
+
+### Mining Pools  
+http://hashbag.cc/  
+http://yiimp.eu  
+http://brutum-pool.com/  
+http://www.zpool.ca/  
+http://pool.chainworksindustries.com/dnr/  
+http://pool.hashrefinery.com/site/gomining?algo=tribus  
+http://dnr.idcray.com/  
+https://cryptohub.online/pools/  
+http://pool.n-engine.com/  
+https://miner-control.de/  
+http://dnr.mining4.co.uk/  
+http://bsod.pw/  
+http://zergpool.com/  
+http://dnr-solo.mining4.co.uk/  
+https://fairmine.pro/  
+https://umine.org/  
+https://miningpatriot.com/  
+
+### Swag
+https://btfd.shop/  
+https://whopper.io/product-category/dnr/  
+
+### Price Indicators/Market API's  
+https://coinmarketcap.com/currencies/denarius-dnr/  
+https://www.cryptocompare.com/coins/dnr/overview/BTC  
+https://www.worldcoinindex.com/coin/denarius  
+https://whattomine.com/coins/187-dnr-tribus  
+https://coinlib.io/coin/DNR/Denarius  
+https://www.coingecko.com/en/price_charts/denarius/usd  
+https://cryptoindex.co/denarius-dnr/  
+https://cryptoslate.com/coins/denarius/  
+https://www.moonstats.com/dnr  
+https://coinranking.com/coin/denarius-dnr  
+https://www.marketbeat.com/cryptocurrencies/denarius/  
+https://coinclarity.com/coin/dnr/  
+https://www.cointelligence.com/coins/denarius-dnr  
+https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_unit=btc  
+https://www.cryptocurrencychart.com/coin/DNR  
+https://coincodex.com/crypto/denarius-dnr/exchanges/  
+
+### Articles  
+http://cryptovore.com/2017/07/02/what-is-denarius-and-gpu-mining-hashrate/  
+http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/  
+http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/  
+https://themerkle.com/crypto-vs-visa-can-denarius-compete-when-it-comes-to-transactions-per-second/  
+https://themerkle.com/bitcoin-flying-high-for-long/  
+https://btfd.shop/dnr-denarius-ancient-money-for-the-new-world/  
+https://medium.com/@Panama_TJ/denarius-intro-504ba3f16728  
+https://www.dashforcenews.com/denarius-the-next-new-payment-coin/  
+https://www.geekxplore.com/what-is-denarius-coin.html  
+https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-treasure/  
+https://cryptocoinconnection.com/denarius-101/  
+https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/  
+https://pistolcrypt.com/what-is-denarius-dnr  
