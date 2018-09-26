@@ -52,7 +52,7 @@ https://github.com/denariuscrypto/
 https://github.com/carsenk/denarius/wiki  
 
 ### Social Media
-Hashtags $DNR #Denarius  
+Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denarius](https://twitter.com/search?q=%23Denariuscoin&src=typd)  
 [Discord](https://discord.gg/mDTM3JN)  
 [Gitter](https://gitter.im/denariusproject/Lobby)  
 [Slack](https://denarius.slack.com/join/shared_invite/enQtMjUzODQ0NzcxMjk2LWRmNTU0NzgyZjYzODE3Y2EzNDc4NzA4ZGY2YjhhMjFiNTIzMGQ5YTc3MTJjZDkxOGJkMDFkMGFmZjcxOWM3YWU)  
