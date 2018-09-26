@@ -67,21 +67,19 @@ Hashtags $DNR #Denarius
 [Facebook](https://www.facebook.com/denariuscrypto/)  
 
 ### Exchanges
-Cryptopia  
+**Cryptopia**  
 [https://www.cryptopia.co.nz/Exchange?market=DNR_BTC](https://www.cryptopia.co.nz/Exchange?market=DNR_BTC)  
-https://www.cryptopia.co.nz/Exchange/?market=DNR_LTC
-https://www.cryptopia.co.nz/Exchange/?market=DNR_DOGE
-Cryptobridge
-https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC
-Coinexchange  
-https://www.coinexchange.io/market/DNR/BTC
-https://www.coinexchange.io/market/DNR/ETH
-Tradeogre  
-https://tradeogre.com/exchange/BTC-DNR
-Cryptohub  
-https://cryptohub.online/market/DNR/
-Southxchange  
-https://www.southxchange.com/Market/Book/DNR/BTC
-https://www.southxchange.com/Market/Book/DNR/USD
-Octaex  
-https://octaex.com/trade/index/market/dnr_btc
+[https://www.cryptopia.co.nz/Exchange/?market=DNR_LTC](https://www.cryptopia.co.nz/Exchange/?market=DNR_LTC)  
+[https://www.cryptopia.co.nz/Exchange/?market=DNR_DOGE](https://www.cryptopia.co.nz/Exchange/?market=DNR_DOGE)  
+**Cryptobridge**  
+[https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC](https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC)  
+**Coinexchange**  
+[https://www.coinexchange.io/market/DNR/BTC](https://www.coinexchange.io/market/DNR/BTC)  
+[https://www.coinexchange.io/market/DNR/ETH](https://www.coinexchange.io/market/DNR/ETH)  
+**Tradeogre**  
+[https://tradeogre.com/exchange/BTC-DNR](https://tradeogre.com/exchange/BTC-DNR)  
+**Cryptohub**  
+[https://cryptohub.online/market/DNR/](https://cryptohub.online/market/DNR/)  
+**Southxchange**  
+[https://www.southxchange.com/Market/Book/DNR/BTC](https://www.southxchange.com/Market/Book/DNR/BTC)  
+[https://www.southxchange.com/Market/Book/DNR/USD](https://www.southxchange.com/Market/Book/DNR/USD)  
