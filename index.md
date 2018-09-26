@@ -6,6 +6,27 @@ description: Denarius Crypto Links
 ---
 # ![Denarius](https://denarius.io/wp-content/uploads/2017/11/denarius-256.png)
 
+<table>
+  <tr>
+    <th>Coin</th>
+    <th>Total Supply</th>
+    <th>Blocktime</th> 
+    <th>Full Confirm</th>
+    <th>Consensus</th>
+    <th>Algorithm</th>
+    <th>Features</th>
+  </tr>
+  <tr>
+    <td>DNR</td>
+    <td>10,000,000</td>
+    <td>30 Seconds</td>
+    <td>10 Blocks</td>
+    <td>POW/POS</td>
+    <td>Tribus</td>
+    <td>Rings Sigs and Masternodes</td>
+  </tr>
+</table>
+
 ## Official [DNR]
 [https://denarius.io/](https://denarius.io/)  
 [https://denarius.host/](https://denarius.host/)  
@@ -14,10 +35,10 @@ description: Denarius Crypto Links
 [http://denarius.win/](http://denarius.win/)  
 [https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363](https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363)  
 
-## White Scroll
+### White Scroll
 [https://denarius.io/whitescroll.pdf](https://denarius.io/whitescroll.pdf)  
 
-## Source Code and Project
+### Source Code and Project
 [https://github.com/carsenk](https://github.com/carsenk)  
 https://github.com/carsenk/denarius  
 https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide  
@@ -29,3 +50,18 @@ https://github.com/carsenk/dnraddress.org
 https://github.com/carsenk/denariusnodewallet  
 https://github.com/denariuscrypto/  
 https://github.com/carsenk/denarius/wiki  
+
+### Social Media
+Hashtags $DNR #Denarius  
+[Discord](https://discord.gg/mDTM3JN)  
+[Gitter](https://gitter.im/denariusproject/Lobby)  
+[Slack](https://denarius.slack.com/join/shared_invite/enQtMjUzODQ0NzcxMjk2LWRmNTU0NzgyZjYzODE3Y2EzNDc4NzA4ZGY2YjhhMjFiNTIzMGQ5YTc3MTJjZDkxOGJkMDFkMGFmZjcxOWM3YWU)  
+[Telegram](https://t.me/joinchat/DPOfJg6YO86vtiH-Srfl8Q)  
+[Official Twitter](https://twitter.com/denariuscoin)  
+[https://twitter.com/carsenjk](https://twitter.com/carsenjk)  
+[https://twitter.com/thenkse](https://twitter.com/thenkse)  
+[https://twitter.com/dnr_ticker](https://twitter.com/dnr_ticker)  
+[https://twitter.com/denariibot](https://twitter.com/denariibot)  
+[Official Reddit](https://www.reddit.com/r/Denarius/)  
+[https://www.reddit.com/r/denariuscoin/](https://www.reddit.com/r/denariuscoin/)  
+[Facebook](https://www.facebook.com/denariuscrypto/)  
