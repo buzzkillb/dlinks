@@ -17,7 +17,7 @@ description: Denarius Crypto Links
 [https://denarius.io/whitescroll.pdf](https://denarius.io/whitescroll.pdf)  
 
 ## Source Code and Project
-https://github.com/carsenk  
+[https://github.com/carsenk](https://github.com/carsenk)  
 https://github.com/carsenk/denarius  
 https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide  
 https://github.com/carsenk/denariusstats  
