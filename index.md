@@ -87,3 +87,14 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Block Explorers
 [Coinexplorer](https://www.coinexplorer.net/DNR)  
 [Chainz Cryptoid](https://chainz.cryptoid.info/dnr/)  
+
+### Wallets
+[QT Wallet](https://github.com/carsenk/denarius/releases)  
+[Paper](https://dnraddress.org/)  
+[Denariusd PPA](https://launchpad.net/~denariuscoin/+archive/ubuntu/ppa)  
+[Coinomi](https://coinomi.com/)  
+[Hyperdex](https://github.com/lukechilds/hyperdex/releases)  
+[Barterdex](https://komodoplatform.com/komodo-wallets/)  
+[Agama Windows](https://artifacts.supernet.org/latest/installer_windows.html)  
+[Agama OSX](https://artifacts.supernet.org/latest/installer_osx.html)  
+[Agama Linux](https://artifacts.supernet.org/latest/installer_linux.html)  
