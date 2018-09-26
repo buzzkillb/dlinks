@@ -17,7 +17,7 @@ author :
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : http://dnrlinks.dnregemx.sh
+production_url : https://dnrlinks.dnregemx.sh
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -52,7 +52,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://dnrlinks.dnregemx.sh
+  BASE_PATH : https://buzzkillb.github.io/dnrlinks
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
