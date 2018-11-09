@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [DNR] Denarius Links
+title: [D] Denarius Links
 tagline: Denarius Coin Links
 description: Denarius Crypto Links
 ---
@@ -17,7 +17,7 @@ description: Denarius Crypto Links
     <th>Features</th>
   </tr>
   <tr>
-    <td>DNR</td>
+    <td>D</td>
     <td>10,000,000</td>
     <td>30 Seconds</td>
     <td>10 Blocks</td>
@@ -27,7 +27,7 @@ description: Denarius Crypto Links
   </tr>
 </table>
 
-## Official [DNR]
+## Official [D]
 [https://denarius.io/](https://denarius.io/)  
 [https://denarius.host/](https://denarius.host/)  
 [https://denariustalk.org/](https://denariustalk.org/)  
