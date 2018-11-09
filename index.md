@@ -154,6 +154,7 @@ https://www.cryptocurrencychart.com/coin/DNR
 https://coincodex.com/crypto/denarius-dnr/exchanges/  
 
 ### Articles  
+[Denarius $DNR Rebranding to $D](https://medium.com/@carsenk/denarius-dnr-rebranding-to-d-69a666174621)  
 http://cryptovore.com/2017/07/02/what-is-denarius-and-gpu-mining-hashrate/  
 http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/  
 http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/  
