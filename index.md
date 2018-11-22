@@ -77,7 +77,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.coinexchange.io/market/DNR/BTC](https://www.coinexchange.io/market/DNR/BTC)  
 [https://www.coinexchange.io/market/DNR/ETH](https://www.coinexchange.io/market/DNR/ETH)  
 **Tradeogre**  
-[https://tradeogre.com/exchange/BTC-DNR](https://tradeogre.com/exchange/BTC-DNR)  
+[https://tradeogre.com/exchange/BTC-D](https://tradeogre.com/exchange/BTC-D)  
 **Cryptohub**  
 [https://cryptohub.online/market/DNR/](https://cryptohub.online/market/DNR/)  
 **Southxchange**  
@@ -85,8 +85,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.southxchange.com/Market/Book/DNR/USD](https://www.southxchange.com/Market/Book/DNR/USD)  
 
 ### Block Explorers
-[Coinexplorer](https://www.coinexplorer.net/DNR)  
-[Chainz Cryptoid](https://chainz.cryptoid.info/dnr/)  
+[Coinexplorer](https://www.coinexplorer.net/D)  
+[Chainz Cryptoid](https://chainz.cryptoid.info/d/)  
 
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
