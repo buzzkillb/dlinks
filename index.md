@@ -135,6 +135,7 @@ https://umine.org/
 https://miningpatriot.com/  
 
 ### Swag
+[HODL.market](https://hodl.market)  
 https://btfd.shop/  
 https://whopper.io/product-category/dnr/  
 
