@@ -5,6 +5,6 @@ website using Markdown and git.
 
 DNR Links.  
 
-View the thing [here](https://dlinks.triforce.black/).  
+View the thing [here](https://denarius.link/).  
 
 ![D](https://i.imgur.com/XwZtq86.gif)
