@@ -78,8 +78,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.coinexchange.io/market/DNR/ETH](https://www.coinexchange.io/market/DNR/ETH)  
 **Tradeogre**  
 [https://tradeogre.com/exchange/BTC-D](https://tradeogre.com/exchange/BTC-D)  
-**Cryptohub**  
-[https://cryptohub.online/market/DNR/](https://cryptohub.online/market/DNR/)  
 **Southxchange**  
 [https://www.southxchange.com/Market/Book/DNR/BTC](https://www.southxchange.com/Market/Book/DNR/BTC)  
 [https://www.southxchange.com/Market/Book/DNR/USD](https://www.southxchange.com/Market/Book/DNR/USD)  
