@@ -74,8 +74,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 **Cryptobridge**  
 [https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC](https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC)  
 **Coinexchange**  
-[https://www.coinexchange.io/market/DNR/BTC](https://www.coinexchange.io/market/DNR/BTC)  
-[https://www.coinexchange.io/market/DNR/ETH](https://www.coinexchange.io/market/DNR/ETH)  
+[https://www.coinexchange.io/market/D/BTC](https://www.coinexchange.io/market/D/BTC)  
+[https://www.coinexchange.io/market/D/ETH](https://www.coinexchange.io/market/D/ETH)  
 **Tradeogre**  
 [https://tradeogre.com/exchange/BTC-D](https://tradeogre.com/exchange/BTC-D)  
 **Southxchange**  
