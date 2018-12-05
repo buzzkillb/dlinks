@@ -97,6 +97,10 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Agama OSX](https://artifacts.supernet.org/latest/installer_osx.html)  
 [Agama Linux](https://artifacts.supernet.org/latest/installer_linux.html)  
 
+### Tutorials  
+[Using Chaindata](https://denariustalk.org/index.php?/topic/157-sync-denarius-fast-any-os-chaindatazip/)  
+[Create Denarius.conf](https://denariustalk.org/index.php?/topic/205-how-to-create-denariusconf-windows-10/)  
+
 ### Apps
 **Chrome**  
 https://chrome.google.com/webstore/detail/simple-denarius-ticker/nhkhjmkllndkhcplgbjkchgomcfjpnnd  
