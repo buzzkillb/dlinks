@@ -71,8 +71,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.cryptopia.co.nz/Exchange?market=D_BTC](https://www.cryptopia.co.nz/Exchange?market=D_BTC)  
 [https://www.cryptopia.co.nz/Exchange/?market=D_LTC](https://www.cryptopia.co.nz/Exchange/?market=D_LTC)  
 [https://www.cryptopia.co.nz/Exchange/?market=D_DOGE](https://www.cryptopia.co.nz/Exchange/?market=D_DOGE)  
-**Cryptobridge**  
-[https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC](https://wallet.crypto-bridge.org/market/BRIDGE.DNR_BRIDGE.BTC)  
 **Coinexchange**  
 [https://www.coinexchange.io/market/D/BTC](https://www.coinexchange.io/market/D/BTC)  
 [https://www.coinexchange.io/market/D/ETH](https://www.coinexchange.io/market/D/ETH)  
