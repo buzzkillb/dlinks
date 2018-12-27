@@ -121,8 +121,9 @@ https://masternodes.online/currencies/DNR/
 [[D] Block Party Countdown](https://triforce.egem.io/d/)
 
 ### Mining Pools  
-http://hashbag.cc/  
-http://yiimp.eu  
+https://pool.coin-miners.info/  
+https://pool.hashrefinery.com/  
+https://miningpatriot.com/  
 http://brutum-pool.com/  
 http://www.zpool.ca/  
 http://pool.chainworksindustries.com/dnr/  
