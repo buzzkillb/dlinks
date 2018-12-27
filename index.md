@@ -124,21 +124,9 @@ https://masternodes.online/currencies/DNR/
 https://pool.coin-miners.info/  
 https://pool.hashrefinery.com/  
 https://miningpatriot.com/  
-http://brutum-pool.com/  
-http://www.zpool.ca/  
-http://pool.chainworksindustries.com/dnr/  
-http://pool.hashrefinery.com/site/gomining?algo=tribus  
 http://dnr.idcray.com/  
-https://cryptohub.online/pools/  
-http://pool.n-engine.com/  
-https://miner-control.de/  
-http://dnr.mining4.co.uk/  
 http://bsod.pw/  
-http://zergpool.com/  
 http://dnr-solo.mining4.co.uk/  
-https://fairmine.pro/  
-https://umine.org/  
-https://miningpatriot.com/  
 
 ### Swag
 [HODL.market](https://hodl.market)  
