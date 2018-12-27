@@ -114,6 +114,8 @@ https://github.com/KomodoPlatform/BarterDEX/releases
 https://masternodes.online/currencies/DNR/  
 [https://cryptochest.io/#/masternodes/detail/10](https://cryptochest.io/#/masternodes/detail/10)  
 [https://masternodec.com/D.html](https://masternodec.com/D.html)  
+[https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD](https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD)  
+[https://www.mintnodes.com/coins/DNR](https://www.mintnodes.com/coins/DNR)  
 
 ## Stats
 [[D] Block Party Countdown](https://triforce.egem.io/d/)
