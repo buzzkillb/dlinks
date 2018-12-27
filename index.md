@@ -112,7 +112,7 @@ https://github.com/KomodoPlatform/BarterDEX/releases
 
 ### Masternodes  
 https://masternodes.online/currencies/DNR/  
-https://mynode.rocks/#/masternodes/detail/10  
+[https://cryptochest.io/#/masternodes/detail/10](https://cryptochest.io/#/masternodes/detail/10)  
 [https://masternodec.com/D.html](https://masternodec.com/D.html)  
 
 ## Stats
