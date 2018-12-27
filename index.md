@@ -108,7 +108,8 @@ https://github.com/carsenk/touchbardenarius
 ### Atomic Swaps  
 https://github.com/KomodoPlatform/BarterDEX/releases  
 
-### Masternodes  
+### FortunaStake
+[https://github.com/buzzkillb/d-fortunastake](https://github.com/buzzkillb/d-fortunastake)  
 https://masternodes.online/currencies/DNR/  
 [https://cryptochest.io/#/masternodes/detail/10](https://cryptochest.io/#/masternodes/detail/10)  
 [https://masternodec.com/D.html](https://masternodec.com/D.html)  
