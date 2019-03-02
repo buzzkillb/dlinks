@@ -136,6 +136,7 @@ https://btfd.shop/
 https://whopper.io/product-category/dnr/  
 
 ### Price Indicators/Market API's  
+[https://coinpaprika.com/coin/d-denarius/](https://coinpaprika.com/coin/d-denarius/)  
 https://coinmarketcap.com/currencies/denarius-dnr/  
 https://www.cryptocompare.com/coins/dnr/overview/BTC  
 https://www.worldcoinindex.com/coin/denarius  
