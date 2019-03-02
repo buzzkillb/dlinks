@@ -98,6 +98,9 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Agama OSX](https://artifacts.supernet.org/latest/installer_osx.html)  
 [Agama Linux](https://artifacts.supernet.org/latest/installer_linux.html)  
 
+### Tribus Algorithm  
+[https://en.bitcoinwiki.org/wiki/Tribus](https://en.bitcoinwiki.org/wiki/Tribus)  
+
 ### Tutorials  
 [Using Chaindata](https://denariustalk.org/index.php?/topic/157-sync-denarius-fast-any-os-chaindatazip/)  
 [Create Denarius.conf](https://denariustalk.org/index.php?/topic/205-how-to-create-denariusconf-windows-10/)  
