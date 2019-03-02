@@ -120,6 +120,9 @@ https://masternodes.online/currencies/DNR/
 [[D] Block Party Countdown](https://triforce.egem.io/d/)
 
 ### Mining Pools  
+https://mining.cafe/  
+https://louhimo.net/  
+https://xserty.com/  
 https://pool.coin-miners.info/  
 https://pool.hashrefinery.com/  
 https://miningpatriot.com/  
@@ -151,6 +154,7 @@ https://www.cryptocurrencychart.com/coin/DNR
 https://coincodex.com/crypto/denarius-dnr/exchanges/  
 
 ### Articles  
+[Backdoored cryptocurrency software found serving AZORult malware](https://www.zdnet.com/article/backdoored-cryptocurrency-software-found-serving-azorult-malware/)  
 [Denarius Statement about CryptoBridge Exchange Update](https://medium.com/@carsenk/denarius-statement-about-cryptobridge-exchange-update-ea7520f4142e)  
 [Denarius $DNR Rebranding to $D](https://medium.com/@carsenk/denarius-dnr-rebranding-to-d-69a666174621)  
 http://cryptovore.com/2017/07/02/what-is-denarius-and-gpu-mining-hashrate/  
