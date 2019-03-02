@@ -66,6 +66,9 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.reddit.com/r/denariuscoin/](https://www.reddit.com/r/denariuscoin/)  
 [Facebook](https://www.facebook.com/denariuscrypto/)  
 
+### Payment Systems  
+[Swirlpay](https://swirlpay.io/)  
+
 ### Exchanges
 **Cryptopia**  
 [https://www.cryptopia.co.nz/Exchange?market=D_BTC](https://www.cryptopia.co.nz/Exchange?market=D_BTC)  
