@@ -120,6 +120,7 @@ https://masternodes.online/currencies/DNR/
 [[D] Block Party Countdown](https://triforce.egem.io/d/)
 
 ### Mining Pools  
+[https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
 https://mining.cafe/  
 https://louhimo.net/  
 https://xserty.com/  
