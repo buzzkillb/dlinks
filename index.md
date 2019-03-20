@@ -121,6 +121,7 @@ https://masternodes.online/currencies/DNR/
 [https://masternodec.com/D.html](https://masternodec.com/D.html)  
 [https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD](https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD)  
 [https://www.mintnodes.com/coins/DNR](https://www.mintnodes.com/coins/DNR)  
+[Denarius Fortuna Stake Hosting](https://fortunastakehosting.com/)  
 
 ## Stats
 [[D] Block Party Countdown](https://triforce.egem.io/d/)
@@ -141,6 +142,10 @@ http://dnr-solo.mining4.co.uk/
 [HODL.market](https://hodl.market)  
 https://btfd.shop/  
 https://whopper.io/product-category/dnr/  
+
+### Misc OS  
+[Raspberry PI Wallet Compile Script](https://github.com/buzzkillb/denarius-pi3)  
+[Raspberry PI DenariinOS Image Builder](https://github.com/buzzkillb/denariianpi-gen)  
 
 ### Price Indicators/Market API's  
 [https://coinpaprika.com/coin/d-denarius/](https://coinpaprika.com/coin/d-denarius/)  
