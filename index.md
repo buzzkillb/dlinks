@@ -116,7 +116,7 @@ https://github.com/carsenk/touchbardenarius
 ### Atomic Swaps  
 https://github.com/KomodoPlatform/BarterDEX/releases  
 
-# FortunaStake
+### FortunaStake
 [https://github.com/buzzkillb/d-fortunastake](https://github.com/buzzkillb/d-fortunastake)  
 https://masternodes.online/currencies/DNR/  
 [https://cryptochest.io/#/masternodes/detail/10](https://cryptochest.io/#/masternodes/detail/10)  
@@ -125,7 +125,7 @@ https://masternodes.online/currencies/DNR/
 [https://www.mintnodes.com/coins/DNR](https://www.mintnodes.com/coins/DNR)  
 [Denarius Fortuna Stake Hosting](https://fortunastakehosting.com/)  
 
-## Stats
+### Stats
 [[D] Block Party Countdown](https://triforce.egem.io/d/)
 
 ### Mining Pools  
