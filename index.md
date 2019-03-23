@@ -112,6 +112,11 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 https://chrome.google.com/webstore/detail/simple-denarius-ticker/nhkhjmkllndkhcplgbjkchgomcfjpnnd  
 **MacOS**  
 https://github.com/carsenk/touchbardenarius  
+### Portfolio Trackers  
+[Blockfolio](https://blockfolio.com)  
+[Blockfolio Siganls](https://blockfolio.com/coin/DNR/signal/hYVSQz0Ync)  
+[Delta](https://delta.app/)  
+
 
 ### Atomic Swaps  
 https://github.com/KomodoPlatform/BarterDEX/releases  
@@ -169,6 +174,7 @@ https://www.cryptocurrencychart.com/coin/DNR
 https://coincodex.com/crypto/denarius-dnr/exchanges/  
 
 ### Articles  
+[Denarius now on Blockfolio Signal!](https://medium.com/@carsenk/denarius-now-on-blockfolio-signal-12e214ddefdd)  
 [Backdoored cryptocurrency software found serving AZORult malware](https://www.zdnet.com/article/backdoored-cryptocurrency-software-found-serving-azorult-malware/)  
 [Denarius Statement about CryptoBridge Exchange Update](https://medium.com/@carsenk/denarius-statement-about-cryptobridge-exchange-update-ea7520f4142e)  
 [Denarius $DNR Rebranding to $D](https://medium.com/@carsenk/denarius-dnr-rebranding-to-d-69a666174621)  
