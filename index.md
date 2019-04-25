@@ -175,6 +175,7 @@ https://coincodex.com/crypto/denarius-dnr/exchanges/
 
 ### Articles  
 [Denarius now on Blockfolio Signal!](https://medium.com/@carsenk/denarius-now-on-blockfolio-signal-12e214ddefdd)  
+[Crypto Bug Hunting by Zcash, EOS, Tron, and a Backdoored Coin](https://cryptonews.com/news/crypto-bug-hunting-by-zcash-eos-tron-and-a-backdoored-coin-3326.htm)  
 [Backdoored cryptocurrency software found serving AZORult malware](https://www.zdnet.com/article/backdoored-cryptocurrency-software-found-serving-azorult-malware/)  
 [Denarius Statement about CryptoBridge Exchange Update](https://medium.com/@carsenk/denarius-statement-about-cryptobridge-exchange-update-ea7520f4142e)  
 [Denarius $DNR Rebranding to $D](https://medium.com/@carsenk/denarius-dnr-rebranding-to-d-69a666174621)  
