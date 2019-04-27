@@ -28,9 +28,11 @@ description: Denarius Crypto Links
 </table>
 
 ## Official [D]
-[https://denarius.io/](https://denarius.io/)  
+[https://denarius.io/](https://denarius.io/) 
+[https://denarius.snazzydocs.com/docs/(https://denarius.snazzydocs.com/docs/)  
 [https://denarius.host/](https://denarius.host/)  
-[https://denariustalk.org/](https://denariustalk.org/)  
+[https://denariustalk.org/](https://denariustalk.org/) 
+[https://fpgaforums.com/](https://fpgaforums.com/)  
 [https://denarius.wiki/home/](https://denarius.wiki/home/)  
 [http://denarius.win/](http://denarius.win/)  
 [https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363](https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363)  
@@ -82,8 +84,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 **Southxchange**  
 [https://www.southxchange.com/Market/Book/DNR/BTC](https://www.southxchange.com/Market/Book/DNR/BTC)  
 [https://www.southxchange.com/Market/Book/DNR/USD](https://www.southxchange.com/Market/Book/DNR/USD)  
-**Altmarkets**  
-[https://altmarkets.io/trading/dbtc](https://altmarkets.io/trading/dbtc)  
 
 ### Block Explorers
 [Coinexplorer](https://www.coinexplorer.net/D)  
