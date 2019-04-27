@@ -31,7 +31,7 @@ description: Denarius Crypto Links
 [https://denarius.io/](https://denarius.io/) 
 [https://denarius.snazzydocs.com/docs/](https://denarius.snazzydocs.com/docs/)  
 [https://denarius.host/](https://denarius.host/)  
-[https://denariustalk.org/](https://denariustalk.org/) 
+[https://denariustalk.org/](https://denariustalk.org/)  
 [https://fpgaforums.com/](https://fpgaforums.com/)  
 [https://denarius.wiki/home/](https://denarius.wiki/home/)  
 [http://denarius.win/](http://denarius.win/)  
