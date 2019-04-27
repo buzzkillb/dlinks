@@ -28,7 +28,7 @@ description: Denarius Crypto Links
 </table>
 
 ## Official [D]
-[https://denarius.io/](https://denarius.io/) 
+[https://denarius.io/](https://denarius.io/)  
 [https://denarius.snazzydocs.com/docs/](https://denarius.snazzydocs.com/docs/)  
 [https://denarius.host/](https://denarius.host/)  
 [https://denariustalk.org/](https://denariustalk.org/)  
