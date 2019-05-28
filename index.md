@@ -173,6 +173,9 @@ https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_un
 https://www.cryptocurrencychart.com/coin/DNR  
 https://coincodex.com/crypto/denarius-dnr/exchanges/  
 
+### Videos  
+[2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
+
 ### Articles  
 [Denarius now on Blockfolio Signal!](https://medium.com/@carsenk/denarius-now-on-blockfolio-signal-12e214ddefdd)  
 [Crypto Bug Hunting by Zcash, EOS, Tron, and a Backdoored Coin](https://cryptonews.com/news/crypto-bug-hunting-by-zcash-eos-tron-and-a-backdoored-coin-3326.htm)  
