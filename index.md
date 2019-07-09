@@ -72,10 +72,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Swirlpay](https://swirlpay.io/)  
 
 ### Exchanges
-**Cryptopia**  
-[https://www.cryptopia.co.nz/Exchange?market=D_BTC](https://www.cryptopia.co.nz/Exchange?market=D_BTC)  
-[https://www.cryptopia.co.nz/Exchange/?market=D_LTC](https://www.cryptopia.co.nz/Exchange/?market=D_LTC)  
-[https://www.cryptopia.co.nz/Exchange/?market=D_DOGE](https://www.cryptopia.co.nz/Exchange/?market=D_DOGE)  
 **Coinexchange**  
 [https://www.coinexchange.io/market/D/BTC](https://www.coinexchange.io/market/D/BTC)  
 [https://www.coinexchange.io/market/D/ETH](https://www.coinexchange.io/market/D/ETH)  
@@ -104,6 +100,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://en.bitcoinwiki.org/wiki/Tribus](https://en.bitcoinwiki.org/wiki/Tribus)  
 
 ### Tutorials  
+[How to Stake Denarius Coins](https://denariustalk.org/index.php?/topic/295-how-to-stake-denarius-coins/)  
 [Using Chaindata](https://denariustalk.org/index.php?/topic/157-sync-denarius-fast-any-os-chaindatazip/)  
 [Create Denarius.conf](https://denariustalk.org/index.php?/topic/205-how-to-create-denariusconf-windows-10/)  
 
@@ -136,14 +133,7 @@ https://masternodes.online/currencies/DNR/
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
 https://mining.cafe/  
-https://louhimo.net/  
-https://xserty.com/  
-https://pool.coin-miners.info/  
-https://pool.hashrefinery.com/  
-https://miningpatriot.com/  
-http://dnr.idcray.com/  
-http://bsod.pw/  
-http://dnr-solo.mining4.co.uk/  
+https://louhimo.net/   
 
 ### Swag
 [HODL.market](https://hodl.market)  
