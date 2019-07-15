@@ -185,15 +185,3 @@ https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-trea
 https://cryptocoinconnection.com/denarius-101/  
 https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/  
 https://pistolcrypt.com/what-is-denarius-dnr  
-
-<footer>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143790622-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-143790622-1');
-</script>
-</footer>
