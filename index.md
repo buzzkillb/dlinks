@@ -183,6 +183,6 @@ http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/
 [https://www.dashforcenews.com/denarius-the-next-new-payment-coin/](https://www.dashforcenews.com/denarius-the-next-new-payment-coin/)  
 [https://www.geekxplore.com/what-is-denarius-coin.html](https://www.geekxplore.com/what-is-denarius-coin.html)  
 [https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-treasure/](https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-treasure/)  
-[https://cryptocoinconnection.com/denarius-101/](https://cryptocoinconnection.com/denarius-101/)  
-[https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/](https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/)  
-[https://pistolcrypt.com/what-is-denarius-dnr](https://pistolcrypt.com/what-is-denarius-dnr)  
+https://cryptocoinconnection.com/denarius-101/  
+https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/    
+https://pistolcrypt.com/what-is-denarius-dnr
