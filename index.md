@@ -174,15 +174,15 @@ https://whopper.io/product-category/dnr/
 [Denarius Statement about CryptoBridge Exchange Update](https://medium.com/@carsenk/denarius-statement-about-cryptobridge-exchange-update-ea7520f4142e)  
 [Denarius $DNR Rebranding to $D](https://medium.com/@carsenk/denarius-dnr-rebranding-to-d-69a666174621)  
 http://cryptovore.com/2017/07/02/what-is-denarius-and-gpu-mining-hashrate/  
-http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/  
-http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/  
-https://themerkle.com/crypto-vs-visa-can-denarius-compete-when-it-comes-to-transactions-per-second/  
-https://themerkle.com/bitcoin-flying-high-for-long/  
-https://btfd.shop/dnr-denarius-ancient-money-for-the-new-world/  
-https://medium.com/@Panama_TJ/denarius-intro-504ba3f16728  
-https://www.dashforcenews.com/denarius-the-next-new-payment-coin/  
-https://www.geekxplore.com/what-is-denarius-coin.html  
-https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-treasure/  
-https://cryptocoinconnection.com/denarius-101/  
-https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/  
-https://pistolcrypt.com/what-is-denarius-dnr  
+http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/
+[http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/](http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/)  
+[https://themerkle.com/crypto-vs-visa-can-denarius-compete-when-it-comes-to-transactions-per-second/](https://themerkle.com/crypto-vs-visa-can-denarius-compete-when-it-comes-to-transactions-per-second/)  
+[https://themerkle.com/bitcoin-flying-high-for-long/](https://themerkle.com/bitcoin-flying-high-for-long/)  
+[https://btfd.shop/dnr-denarius-ancient-money-for-the-new-world/](https://btfd.shop/dnr-denarius-ancient-money-for-the-new-world/)  
+[https://medium.com/@Panama_TJ/denarius-intro-504ba3f16728](https://medium.com/@Panama_TJ/denarius-intro-504ba3f16728)  
+[https://www.dashforcenews.com/denarius-the-next-new-payment-coin/](https://www.dashforcenews.com/denarius-the-next-new-payment-coin/)  
+[https://www.geekxplore.com/what-is-denarius-coin.html](https://www.geekxplore.com/what-is-denarius-coin.html)  
+[https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-treasure/](https://www.shikahgo.com/2018/04/13/in-a-sea-of-altcoins-denarius-is-hidden-treasure/)  
+[https://cryptocoinconnection.com/denarius-101/](https://cryptocoinconnection.com/denarius-101/)  
+[https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/](https://cryptocoinconnection.com/in-a-sea-of-altcoins-we-see-denarius-shining/)  
+[https://pistolcrypt.com/what-is-denarius-dnr](https://pistolcrypt.com/what-is-denarius-dnr)  
