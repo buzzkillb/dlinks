@@ -167,6 +167,7 @@ https://coincodex.com/crypto/denarius-dnr/exchanges/
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
 ### Articles  
+[Denarius, an old currency for a new world](https://medium.com/@asscror75/denarius-an-old-currency-for-a-new-world-9241c184c01b)  
 [Denarius now on Blockfolio Signal!](https://medium.com/@carsenk/denarius-now-on-blockfolio-signal-12e214ddefdd)  
 [Crypto Bug Hunting by Zcash, EOS, Tron, and a Backdoored Coin](https://cryptonews.com/news/crypto-bug-hunting-by-zcash-eos-tron-and-a-backdoored-coin-3326.htm)  
 [Backdoored cryptocurrency software found serving AZORult malware](https://www.zdnet.com/article/backdoored-cryptocurrency-software-found-serving-azorult-malware/)  
