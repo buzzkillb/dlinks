@@ -120,7 +120,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### FortunaStake
 [https://github.com/buzzkillb/d-fortunastake](https://github.com/buzzkillb/d-fortunastake)  
-https://masternodes.online/currencies/DNR/  
+[https://masternodes.online/currencies/DNR/](https://masternodes.online/currencies/DNR/)  
 [https://cryptochest.io/#/masternodes/detail/10](https://cryptochest.io/#/masternodes/detail/10)  
 [https://masternodec.com/D.html](https://masternodec.com/D.html)  
 [https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD](https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD)  
@@ -132,13 +132,13 @@ https://masternodes.online/currencies/DNR/
 
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
-https://mining.cafe/  
-https://louhimo.net/   
+[https://mining.cafe/](https://mining.cafe/)  
+[https://louhimo.net/](https://louhimo.net/)  
 
 ### Swag
 [HODL.market](https://hodl.market)  
-https://btfd.shop/  
-https://whopper.io/product-category/dnr/  
+[https://btfd.shop/](https://btfd.shop/)  
+[https://whopper.io/product-category/dnr/](https://whopper.io/product-category/dnr/)  
 
 ### Misc OS  
 [Raspberry PI Wallet Compile Script](https://github.com/buzzkillb/denarius-pi3)  
