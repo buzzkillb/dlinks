@@ -42,16 +42,16 @@ description: Denarius Crypto Links
 
 ### Source Code and Project
 [https://github.com/carsenk](https://github.com/carsenk)  
-https://github.com/carsenk/denarius  
-https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide  
-https://github.com/carsenk/denariusstats  
-https://github.com/carsenk/electrumx  
-https://github.com/carsenk/denariicore-node  
-https://github.com/carsenk/simple-denarius-ticker  
-https://github.com/carsenk/dnraddress.org  
-https://github.com/carsenk/denariusnodewallet  
-https://github.com/denariuscrypto/  
-https://github.com/carsenk/denarius/wiki  
+[https://github.com/carsenk/denarius](https://github.com/carsenk/denarius)  
+[https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide](https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide)  
+[https://github.com/carsenk/denariusstats](https://github.com/carsenk/denariusstats)  
+[https://github.com/carsenk/electrumx](https://github.com/carsenk/electrumx)  
+[https://github.com/carsenk/denariicore-node](https://github.com/carsenk/denariicore-node)  
+[https://github.com/carsenk/simple-denarius-ticker](https://github.com/carsenk/simple-denarius-ticker)  
+[https://github.com/carsenk/dnraddress.org](https://github.com/carsenk/dnraddress.org)  
+[https://github.com/carsenk/denariusnodewallet](https://github.com/carsenk/denariusnodewallet)  
+[https://github.com/denariuscrypto/](https://github.com/denariuscrypto/)  
+[https://github.com/carsenk/denarius/wiki](https://github.com/carsenk/denarius/wiki)  
 
 ### Social Media
 Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](https://twitter.com/search?q=%23Denariuscoin&src=typd)  
