@@ -174,7 +174,7 @@ https://whopper.io/product-category/dnr/
 [Denarius Statement about CryptoBridge Exchange Update](https://medium.com/@carsenk/denarius-statement-about-cryptobridge-exchange-update-ea7520f4142e)  
 [Denarius $DNR Rebranding to $D](https://medium.com/@carsenk/denarius-dnr-rebranding-to-d-69a666174621)  
 http://cryptovore.com/2017/07/02/what-is-denarius-and-gpu-mining-hashrate/  
-http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/
+http://cryptovore.com/2017/07/05/how-to-mine-denarius-dnr/  
 [http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/](http://kolikkokeisari.com/louhinta/kryptovaluutan-soololouhintaohjeet/)  
 [https://themerkle.com/crypto-vs-visa-can-denarius-compete-when-it-comes-to-transactions-per-second/](https://themerkle.com/crypto-vs-visa-can-denarius-compete-when-it-comes-to-transactions-per-second/)  
 [https://themerkle.com/bitcoin-flying-high-for-long/](https://themerkle.com/bitcoin-flying-high-for-long/)  
