@@ -5,7 +5,17 @@ tagline: Denarius Coin Links
 description: Denarius Crypto Links
 ---
 # ![Denarius](https://denarius.io/wp-content/uploads/2017/11/denarius-256.png)
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143790622-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-143790622-1');
+</script>
+</head>
 <table>
   <tr>
     <th>Coin</th>
