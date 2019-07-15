@@ -106,9 +106,9 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### Apps
 **Chrome**  
-https://chrome.google.com/webstore/detail/simple-denarius-ticker/nhkhjmkllndkhcplgbjkchgomcfjpnnd  
+[https://chrome.google.com/webstore/detail/simple-denarius-ticker/nhkhjmkllndkhcplgbjkchgomcfjpnnd](https://chrome.google.com/webstore/detail/simple-denarius-ticker/nhkhjmkllndkhcplgbjkchgomcfjpnnd)  
 **MacOS**  
-https://github.com/carsenk/touchbardenarius  
+[https://github.com/carsenk/touchbardenarius](https://github.com/carsenk/touchbardenarius)  
 ### Portfolio Trackers  
 [Blockfolio](https://blockfolio.com)  
 [Blockfolio Siganls](https://blockfolio.com/coin/DNR/signal/hYVSQz0Ync)  
@@ -116,7 +116,7 @@ https://github.com/carsenk/touchbardenarius
 
 
 ### Atomic Swaps  
-https://github.com/KomodoPlatform/BarterDEX/releases  
+[https://github.com/KomodoPlatform/BarterDEX/releases](https://github.com/KomodoPlatform/BarterDEX/releases)  
 
 ### FortunaStake
 [https://github.com/buzzkillb/d-fortunastake](https://github.com/buzzkillb/d-fortunastake)  
@@ -146,22 +146,22 @@ https://whopper.io/product-category/dnr/
 
 ### Price Indicators/Market API's  
 [https://coinpaprika.com/coin/d-denarius/](https://coinpaprika.com/coin/d-denarius/)  
-https://coinmarketcap.com/currencies/denarius-dnr/  
-https://www.cryptocompare.com/coins/dnr/overview/BTC  
-https://www.worldcoinindex.com/coin/denarius  
-https://whattomine.com/coins/187-dnr-tribus  
-https://coinlib.io/coin/DNR/Denarius  
-https://www.coingecko.com/en/price_charts/denarius/usd  
-https://cryptoindex.co/denarius-dnr/  
-https://cryptoslate.com/coins/denarius/  
-https://www.moonstats.com/dnr  
-https://coinranking.com/coin/denarius-dnr  
-https://www.marketbeat.com/cryptocurrencies/denarius/  
-https://coinclarity.com/coin/dnr/  
-https://www.cointelligence.com/coins/denarius-dnr  
-https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_unit=btc  
-https://www.cryptocurrencychart.com/coin/DNR  
-https://coincodex.com/crypto/denarius-dnr/exchanges/  
+[https://coinmarketcap.com/currencies/denarius-dnr/](https://coinmarketcap.com/currencies/denarius-dnr/)  
+[https://www.cryptocompare.com/coins/dnr/overview/BTC](https://www.cryptocompare.com/coins/dnr/overview/BTC)  
+[https://www.worldcoinindex.com/coin/denarius](https://www.worldcoinindex.com/coin/denarius)  
+[https://whattomine.com/coins/187-dnr-tribus](https://whattomine.com/coins/187-dnr-tribus)  
+[https://coinlib.io/coin/DNR/Denarius](https://coinlib.io/coin/DNR/Denarius)  
+[https://www.coingecko.com/en/price_charts/denarius/usd](https://www.coingecko.com/en/price_charts/denarius/usd)  
+[https://cryptoindex.co/denarius-dnr/](https://cryptoindex.co/denarius-dnr/)  
+[https://cryptoslate.com/coins/denarius/](https://cryptoslate.com/coins/denarius/)  
+[https://www.moonstats.com/dnr](https://www.moonstats.com/dnr)  
+[https://coinranking.com/coin/denarius-dnr](https://coinranking.com/coin/denarius-dnr)  
+[https://www.marketbeat.com/cryptocurrencies/denarius/](https://www.marketbeat.com/cryptocurrencies/denarius/)  
+[https://coinclarity.com/coin/dnr/](https://coinclarity.com/coin/dnr/)  
+[https://www.cointelligence.com/coins/denarius-dnr](https://www.cointelligence.com/coins/denarius-dnr)  
+[https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_unit=btc](https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_unit=btc)  
+[https://www.cryptocurrencychart.com/coin/DNR](https://www.cryptocurrencychart.com/coin/DNR)  
+[https://coincodex.com/crypto/denarius-dnr/exchanges/](https://coincodex.com/crypto/denarius-dnr/exchanges/)  
 
 ### Videos  
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
