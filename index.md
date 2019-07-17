@@ -127,8 +127,9 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.mintnodes.com/coins/DNR](https://www.mintnodes.com/coins/DNR)  
 [Denarius Fortuna Stake Hosting](https://fortunastakehosting.com/)  
 
-### Stats
-[[D] Block Party Countdown](https://triforce.egem.io/d/)
+### Stats  
+[[D] Staking Calculator](https://pos.watch/)  
+[[D] Block Party Countdown](https://triforce.egem.io/d/)  
 
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
