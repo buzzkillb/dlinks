@@ -170,6 +170,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Articles  
 [Denarius — A True Cryptocurrency in a Sea of Scams and ICOs - Medium](https://medium.com/@carsenk/denarius-a-true-cryptocurrency-in-a-sea-of-scams-and-icos-1349bb800797)  
 [Denarius – A true cryptocurrency in a sea of ICOs - The Merkle](https://themerkle.com/denarius-a-true-cryptocurrency-in-a-sea-of-icos/)  
+[[D] Staking Stats July 23, 2019](https://steemit.com/denarius/@methoncrypto/d-staking-stats-july-23-2019)  
 [Denarius – A true cryptocurrency in a sea of ICOs](https://nxtalpha.com/denarius-a-true-cryptocurrency-in-a-sea-of-icos/)  
 [A true cryptocurrency in a sea of ICOs » The Merkle Hash](http://bitinvader.com/finance-news-finance-news/a-true-cryptocurrency-in-a-sea-of-icos-the-merkle-hash/)  
 [Denarius, an old currency for a new world](https://medium.com/@asscror75/denarius-an-old-currency-for-a-new-world-9241c184c01b)  
