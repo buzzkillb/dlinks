@@ -168,7 +168,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
 ### Articles  
-[Denarius – A true cryptocurrency in a sea of ICOs](https://themerkle.com/denarius-a-true-cryptocurrency-in-a-sea-of-icos/)  
+[Denarius — A True Cryptocurrency in a Sea of Scams and ICOs - Medium](https://medium.com/@carsenk/denarius-a-true-cryptocurrency-in-a-sea-of-scams-and-icos-1349bb800797)  
+[Denarius – A true cryptocurrency in a sea of ICOs - The Merkle](https://themerkle.com/denarius-a-true-cryptocurrency-in-a-sea-of-icos/)  
 [Denarius – A true cryptocurrency in a sea of ICOs](https://nxtalpha.com/denarius-a-true-cryptocurrency-in-a-sea-of-icos/)  
 [A true cryptocurrency in a sea of ICOs » The Merkle Hash](http://bitinvader.com/finance-news-finance-news/a-true-cryptocurrency-in-a-sea-of-icos-the-merkle-hash/)  
 [Denarius, an old currency for a new world](https://medium.com/@asscror75/denarius-an-old-currency-for-a-new-world-9241c184c01b)  
