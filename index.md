@@ -118,7 +118,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Atomic Swaps  
 [https://github.com/KomodoPlatform/BarterDEX/releases](https://github.com/KomodoPlatform/BarterDEX/releases)  
 
-### FortunaStake
+### FortunaStake  
+[d.F.P.S. Decentralized Fair Payment System for Denarius (D) Fortuna Stake Masternodes](https://medium.com/@carsenk/d-f-p-s-decentralized-fair-payment-system-for-denarius-d-fortuna-stake-masternodes-1280c5d4d88c)  
 [https://github.com/buzzkillb/d-fortunastake](https://github.com/buzzkillb/d-fortunastake)  
 [https://masternodes.online/currencies/DNR/](https://masternodes.online/currencies/DNR/)  
 [https://cryptochest.io/#/masternodes/detail/10](https://cryptochest.io/#/masternodes/detail/10)  
