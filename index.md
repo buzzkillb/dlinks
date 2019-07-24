@@ -169,6 +169,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
 ### Articles  
+[The first new decentralized fair payment system for masternodes - Bitcoin Insider](https://www.bitcoininsider.org/article/72566/first-new-decentralized-fair-payment-system-masternodes)  
 [d.F.P.S. Decentralized Fair Payment System for Denarius (D) Fortuna Stake Masternodes - Blockfolio Signals](https://blockfolio.com/coin/DNR/signal/oC1qXfS9z2)  
 [Denarius — A True Cryptocurrency in a Sea of Scams and ICOs - Medium](https://medium.com/@carsenk/denarius-a-true-cryptocurrency-in-a-sea-of-scams-and-icos-1349bb800797)  
 [Denarius – A true cryptocurrency in a sea of ICOs - The Merkle](https://themerkle.com/denarius-a-true-cryptocurrency-in-a-sea-of-icos/)  
