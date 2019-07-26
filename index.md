@@ -169,6 +169,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
 ### Articles  
+[A Decentralized Powerhouse Waiting to Take Over](https://medium.com/@Luigi1010101/a-decentralized-powerhouse-waiting-to-take-over-7ffe695b1e2)  
 [[D] Staking Stats July 25, 2019 - Medium](https://medium.com/@cryptoBuzzB/d-staking-stats-july-25-2019-f80922e309df)  
 [[D] Staking Stats July 25, 2019 - Steemit](https://steemit.com/denarius/@methoncrypto/d-staking-stats-july-25-2019)  
 [[D] Staking Stats July 24, 2019](https://steemit.com/denarius/@methoncrypto/d-staking-stats-july-24-2019)  
