@@ -169,6 +169,10 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
 ### Articles  
+[
+Cryptocurrency
+The first new decentralized fair payment system for masternodes - Crypto Mak](https://www.cryptomak.co.uk/the-first-new-decentralized-fair-payment-system-for-masternodes)  
+[[D] Staking Stats July 28, 2019](https://medium.com/@cryptoBuzzB/d-staking-stats-july-28-2019-d7798c1db22b)  
 [[D] Staking Stats July 27, 2019](https://medium.com/@cryptoBuzzB/d-staking-stats-july-27-2019-5ff0a2fb93f2)  
 [[D] Staking Stats July 26, 2019](https://medium.com/@cryptoBuzzB/d-staking-stats-july-26-2019-63d5ac5ad7d4)  
 [A Decentralized Powerhouse Waiting to Take Over](https://medium.com/@Luigi1010101/a-decentralized-powerhouse-waiting-to-take-over-7ffe695b1e2)  
