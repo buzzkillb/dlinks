@@ -87,6 +87,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
+[Snap Wallet](https://snapcraft.io/denarius)  
 [Paper](https://dnraddress.org/)  
 [Denarius MiniKey Generation & Converter Tool](https://carsenk.github.io/)  
 [Denariusd PPA](https://launchpad.net/~denariuscoin/+archive/ubuntu/ppa)  
@@ -100,6 +101,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://en.bitcoinwiki.org/wiki/Tribus](https://en.bitcoinwiki.org/wiki/Tribus)  
 
 ### Tutorials  
+[Snap Denarius - Snapcraft (Linux Easy Install Wallet)](https://denariustalk.org/index.php?/topic/318-snap-denarius-snapcraft-linux-easy-install-wallet/)  
 [How to Stake Denarius Coins](https://denariustalk.org/index.php?/topic/295-how-to-stake-denarius-coins/)  
 [Using Chaindata](https://denariustalk.org/index.php?/topic/157-sync-denarius-fast-any-os-chaindatazip/)  
 [Create Denarius.conf](https://denariustalk.org/index.php?/topic/205-how-to-create-denariusconf-windows-10/)  
