@@ -72,9 +72,10 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Swirlpay](https://swirlpay.io/)  
 
 ### Exchanges
-**Coinexchange**  
-[https://www.coinexchange.io/market/D/BTC](https://www.coinexchange.io/market/D/BTC)  
-[https://www.coinexchange.io/market/D/ETH](https://www.coinexchange.io/market/D/ETH)  
+**Altilly**  
+[https://www.altilly.com/market/D_BTC](https://www.altilly.com/market/D_BTC)  
+[https://www.altilly.com/market/D_ETH](https://www.altilly.com/market/D_ETH)  
+[https://www.altilly.com/market/D_XQR](https://www.altilly.com/market/D_XQR)    
 **Tradeogre**  
 [https://tradeogre.com/exchange/BTC-D](https://tradeogre.com/exchange/BTC-D)  
 **Southxchange**  
