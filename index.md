@@ -71,7 +71,9 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Payment Systems  
 [Swirlpay](https://swirlpay.io/)  
 
-### Exchanges
+### Exchanges  
+**Coinvex**  
+[https://coinvex.org/market/BTC-D?ref=3](https://coinvex.org/market/BTC-D?ref=3)  
 **Altilly**  
 [https://www.altilly.com/market/D_BTC](https://www.altilly.com/market/D_BTC)  
 [https://www.altilly.com/market/D_ETH](https://www.altilly.com/market/D_ETH)  
@@ -138,7 +140,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
 [https://mining.cafe/](https://mining.cafe/)  
-[https://louhimo.net/](https://louhimo.net/)  
 
 ### Swag
 [HODL.market](https://hodl.market)  
