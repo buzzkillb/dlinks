@@ -83,6 +83,12 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 **Southxchange**  
 [https://www.southxchange.com/Market/Book/DNR/BTC](https://www.southxchange.com/Market/Book/DNR/BTC)  
 [https://www.southxchange.com/Market/Book/DNR/USD](https://www.southxchange.com/Market/Book/DNR/USD)  
+**Unnamed Exchange**  
+[https://www.unnamed.exchange/Exchange?market=D_BTC](https://www.unnamed.exchange/Exchange?market=D_BTC)  
+[https://www.unnamed.exchange/Exchange?market=D_LTC](https://www.unnamed.exchange/Exchange?market=D_LTC)  
+[https://www.unnamed.exchange/Exchange?market=D_DOGE](https://www.unnamed.exchange/Exchange?market=D_DOGE)  
+[https://www.unnamed.exchange/Exchange?market=D_uTip](https://www.unnamed.exchange/Exchange?market=D_uTip)  
+[https://www.unnamed.exchange/Exchange?market=D_ETH](https://www.unnamed.exchange/Exchange?market=D_ETH)  
 
 ### Block Explorers
 [Coinexplorer](https://www.coinexplorer.net/D)  
