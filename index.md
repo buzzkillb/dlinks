@@ -81,8 +81,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 **Tradeogre**  
 [https://tradeogre.com/exchange/BTC-D](https://tradeogre.com/exchange/BTC-D)  
 **Southxchange**  
-[https://www.southxchange.com/Market/Book/DNR/BTC](https://www.southxchange.com/Market/Book/DNR/BTC)  
-[https://www.southxchange.com/Market/Book/DNR/USD](https://www.southxchange.com/Market/Book/DNR/USD)  
+[https://www.southxchange.com/Market/Book/D/BTC](https://www.southxchange.com/Market/Book/D/BTC)  
+[https://www.southxchange.com/Market/Book/D/USD](https://www.southxchange.com/Market/Book/D/USD)  
 **Unnamed Exchange**  
 [https://www.unnamed.exchange/Exchange?market=D_BTC](https://www.unnamed.exchange/Exchange?market=D_BTC)  
 [https://www.unnamed.exchange/Exchange?market=D_LTC](https://www.unnamed.exchange/Exchange?market=D_LTC)  
@@ -141,7 +141,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### Stats  
 [[D] Staking and FortunaStake Calculator](https://pos.watch/)  
-[[D] Block Party Countdown](https://triforce.egem.io/d/)  
+[[D] Block Party Countdown](https://denarius.pro)  
 
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
