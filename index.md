@@ -145,7 +145,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
-[https://mining.cafe/](https://mining.cafe/)  
+[https://cryptogreek.cafe/](https://cryptogreek.cafe/)  
 
 ### Swag
 [HODL.market](https://hodl.market)  
