@@ -179,6 +179,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
 ### Articles  
+[My Journey Into The Rabbit Hole Of Cryptocurrency, Since 2009](https://themerkle.com/my-journey-into-the-rabbit-hole-of-cryptocurrency-since-2009/)  
 [
 Cryptocurrency
 The first new decentralized fair payment system for masternodes - Crypto Mak](https://www.cryptomak.co.uk/the-first-new-decentralized-fair-payment-system-for-masternodes)  
