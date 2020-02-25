@@ -106,6 +106,9 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Agama OSX](https://artifacts.supernet.org/latest/installer_osx.html)  
 [Agama Linux](https://artifacts.supernet.org/latest/installer_linux.html)  
 
+### Chaindata
+[Chaindata Download](https://denarii.cloud)  
+
 ### Tribus Algorithm  
 [https://en.bitcoinwiki.org/wiki/Tribus](https://en.bitcoinwiki.org/wiki/Tribus)  
 
