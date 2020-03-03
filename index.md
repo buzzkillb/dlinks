@@ -177,6 +177,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_unit=btc](https://bitscreener.com/coins/denarius-dnr?timeframe=all&chart_type=bar&chart_unit=btc)  
 [https://www.cryptocurrencychart.com/coin/DNR](https://www.cryptocurrencychart.com/coin/DNR)  
 [https://coincodex.com/crypto/denarius-dnr/exchanges/](https://coincodex.com/crypto/denarius-dnr/exchanges/)  
+[https://neironix.io/cryptocurrency/denarius](https://neironix.io/cryptocurrency/denarius)  
 
 ### Videos  
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
