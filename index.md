@@ -97,14 +97,10 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
 [Snap Wallet](https://snapcraft.io/denarius)  
-[Paper](https://dnraddress.org/)  
 [Denarius MiniKey Generation & Converter Tool](https://carsenk.github.io/)  
 [Denariusd PPA](https://launchpad.net/~denariuscoin/+archive/ubuntu/ppa)  
 [Coinomi](https://coinomi.com/)  
 [Hyperdex](https://github.com/lukechilds/hyperdex/releases)  
-[Agama Windows](https://artifacts.supernet.org/latest/installer_windows.html)  
-[Agama OSX](https://artifacts.supernet.org/latest/installer_osx.html)  
-[Agama Linux](https://artifacts.supernet.org/latest/installer_linux.html)  
 
 ### Chaindata
 [Chaindata Download](https://denarii.cloud)  
