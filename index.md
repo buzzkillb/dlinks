@@ -33,7 +33,7 @@ description: Denarius Crypto Links
 [https://denarius.host/](https://denarius.host/)  
 [https://blockforums.org/](https://blockforums.org/)  
 [https://fpgaforums.com/](https://fpgaforums.com/)  
-[https://denarius.wiki/home/](https://denarius.wiki/home/)  
+[https://denarius.wiki](https://denarius.wiki)  
 [http://denarius.win/](http://denarius.win/)  
 [https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363](https://www.amazon.com/Denarius-World-Currency-Concise-History/dp/1717289363)  
 
