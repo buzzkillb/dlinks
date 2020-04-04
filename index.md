@@ -93,6 +93,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Block Explorers
 [Coinexplorer](https://www.coinexplorer.net/D)  
 [Chainz Cryptoid](https://chainz.cryptoid.info/d/)  
+[Denarius Explorer](https://explorer.denarius.pro/)  
 
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
