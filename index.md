@@ -159,6 +159,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Raspberry PI DenariinOS Image Builder](https://github.com/buzzkillb/denariianpi-gen)  
 
 ### Price Indicators/Market API's  
+[https://www.coinbase.com/price/denarius-d](https://www.coinbase.com/price/denarius-d)  
 [https://coinpaprika.com/coin/d-denarius/](https://coinpaprika.com/coin/d-denarius/)  
 [https://coinmarketcap.com/currencies/denarius-dnr/](https://coinmarketcap.com/currencies/denarius-dnr/)  
 [https://www.cryptocompare.com/coins/dnr/overview/BTC](https://www.cryptocompare.com/coins/dnr/overview/BTC)  
