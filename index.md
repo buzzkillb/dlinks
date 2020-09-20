@@ -97,6 +97,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
+[Kronos](https://github.com/carsenk/kronos)  
 [Snap Wallet](https://snapcraft.io/denarius)  
 [Denarius MiniKey Generation & Converter Tool](https://carsenk.github.io/)  
 [Denariusd PPA](https://launchpad.net/~denariuscoin/+archive/ubuntu/ppa)  
