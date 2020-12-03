@@ -93,7 +93,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Block Explorers
 [Coinexplorer](https://www.coinexplorer.net/D)  
 [Chainz Cryptoid](https://chainz.cryptoid.info/d/)  
-[Denarius Explorer](https://explorer.denarius.pro/)  
 
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
@@ -101,8 +100,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Snap Wallet](https://snapcraft.io/denarius)  
 [Denarius MiniKey Generation & Converter Tool](https://carsenk.github.io/)  
 [Denariusd PPA](https://launchpad.net/~denariuscoin/+archive/ubuntu/ppa)  
-[Coinomi](https://coinomi.com/)  
-[Hyperdex](https://github.com/lukechilds/hyperdex/releases)  
+[Gemmer](https://github.com/primecoin/gemmer)  
 
 ### Chaindata
 [Chaindata Download](https://denarii.cloud)  
@@ -128,7 +126,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 
 ### Atomic Swaps  
-[https://github.com/KomodoPlatform/BarterDEX/releases](https://github.com/KomodoPlatform/BarterDEX/releases)  
+[https://blockdx.com/](https://blockdx.com/)  
 
 ### FortunaStake  
 [d.F.P.S. Decentralized Fair Payment System for Denarius (D) Fortuna Stake Masternodes](https://medium.com/@carsenk/d-f-p-s-decentralized-fair-payment-system-for-denarius-d-fortuna-stake-masternodes-1280c5d4d88c)  
