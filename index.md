@@ -53,6 +53,9 @@ description: Denarius Crypto Links
 [https://github.com/denariuscrypto/](https://github.com/denariuscrypto/)  
 [https://github.com/carsenk/denarius/wiki](https://github.com/carsenk/denarius/wiki)  
 
+### Blockfolio Signals  
+[Denarius.io got a major overdue revamp!](https://blockfolio.com/coin/D_2/signal/PrHp4CHimM)  
+
 ### Social Media
 Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](https://twitter.com/search?q=%23Denariuscoin&src=typd)  
 [Discord](https://discord.gg/mDTM3JN)  
