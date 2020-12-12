@@ -182,6 +182,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://neironix.io/cryptocurrency/denarius](https://neironix.io/cryptocurrency/denarius)  
 
 ### Videos  
+[Kronos - Open Source Multi Cryptocurrency Wallet](https://youtu.be/Sg1P_SXZIuk)  
 [Interview with Carsen Klock, Founder of Denarius (D) Cryptocurrency](https://www.youtube.com/watch?v=yAPec8OHs94)  
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
