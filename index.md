@@ -182,6 +182,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://neironix.io/cryptocurrency/denarius](https://neironix.io/cryptocurrency/denarius)  
 
 ### Videos  
+[Denarius Price Prediction](https://www.youtube.com/watch?v=4DFK8Bi8J_I)  
 [Denarius Cryptocurrency](https://www.youtube.com/watch?v=p9GwGvX6gUo)  
 [How to get a small amount of free Denarius from Southxchange](https://www.youtube.com/watch?v=FApeqLaoW-8)  
 [How to buy cryptocurrency Denarius on Southxchange](https://www.youtube.com/watch?v=OiDIEbA-qso)  
