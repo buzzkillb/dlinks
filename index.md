@@ -182,6 +182,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://neironix.io/cryptocurrency/denarius](https://neironix.io/cryptocurrency/denarius)  
 
 ### Videos  
+[High Risk, High Reward Altcoins Ep. 2 - Denarius (DNR)](https://www.youtube.com/watch?v=yRYz088DqEk)  
 [What is Denarius Coin?](https://www.youtube.com/watch?v=Z1T1q4Nm5uk)  
 [What Is Denarius?](https://www.youtube.com/watch?v=Ga2hUTECIT0)  
 [Kronos - Open Source Multi Cryptocurrency Wallet](https://youtu.be/Sg1P_SXZIuk)  
