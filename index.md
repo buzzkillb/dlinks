@@ -182,6 +182,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://neironix.io/cryptocurrency/denarius](https://neironix.io/cryptocurrency/denarius)  
 
 ### Videos  
+[Denarius (D) Cryptocurrency Development - 3 YEARS in 10 minutes](https://www.youtube.com/watch?v=HMBg5936xFg)  
+[Denarius on a Lambo?](https://www.youtube.com/watch?v=JFtwOPGubOs)  
 [Denarius Price Prediction](https://www.youtube.com/watch?v=4DFK8Bi8J_I)  
 [Denarius Cryptocurrency](https://www.youtube.com/watch?v=p9GwGvX6gUo)  
 [How to get a small amount of free Denarius from Southxchange](https://www.youtube.com/watch?v=FApeqLaoW-8)  
