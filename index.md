@@ -70,17 +70,12 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Official Reddit](https://www.reddit.com/r/Denarius/)  
 [https://www.reddit.com/r/denariuscoin/](https://www.reddit.com/r/denariuscoin/)  
 [Facebook](https://www.facebook.com/denariuscrypto/)  
+[CoinFellowship](https://coinfellowship.com/)  
 
 ### Payment Systems  
 [Swirlpay](https://swirlpay.io/)  
 
 ### Exchanges  
-**Coinvex**  
-[https://coinvex.org/market/BTC-D?ref=3](https://coinvex.org/market/BTC-D?ref=3)  
-**Altilly**  
-[https://www.altilly.com/market/D_BTC](https://www.altilly.com/market/D_BTC)  
-[https://www.altilly.com/market/D_ETH](https://www.altilly.com/market/D_ETH)  
-[https://www.altilly.com/market/D_XQR](https://www.altilly.com/market/D_XQR)    
 **Tradeogre**  
 [https://tradeogre.com/exchange/BTC-D](https://tradeogre.com/exchange/BTC-D)  
 **Southxchange**  
@@ -144,6 +139,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Stats  
 [[D] Staking and FortunaStake Calculator](https://pos.watch/)  
 [[D] Block Party Countdown](https://denarius.pro)  
+[Denarius $D Masternode Stats](https://coins.masternode.buzz/D)  
 
 ### Mining Pools  
 [https://miningpoolstats.stream/denarius](https://miningpoolstats.stream/denarius)  
