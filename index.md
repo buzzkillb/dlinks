@@ -197,6 +197,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [2 News - Denarius Announces Beta of Kronos Wallet and Chat](https://www.ktvn.com/story/43208622/denarius-announces-beta-of-kronos-wallet-and-chat)  
 [Fox 40 - Denarius Announces Beta of Kronos Wallet and Chat](https://www.wicz.com/story/43208622/denarius-announces-beta-of-kronos-wallet-and-chat)  
 [Benzinga - Denarius Announces Beta of Kronos Wallet and Chat](https://www.benzinga.com/pressreleases/21/01/r19248587/denarius-announces-beta-of-kronos-wallet-and-chat)  
+[Crypto News BTC - Denarius Announces Beta of Kronos Wallet and Chat](https://cryptonewsbtc.org/2021/01/21/denarius-announces-beta-of-kronos-wallet-and-chat/)  
 [My Journey Into The Rabbit Hole Of Cryptocurrency, Since 2009](https://themerkle.com/my-journey-into-the-rabbit-hole-of-cryptocurrency-since-2009/)  
 [
 Cryptocurrency
