@@ -191,7 +191,12 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Interview with Carsen Klock, Founder of Denarius (D) Cryptocurrency](https://www.youtube.com/watch?v=yAPec8OHs94)  
 [2019 Denarius Coin Review | Ryan Lopez](https://www.youtube.com/watch?v=IsbruehbTVQ)  
 
-### Articles  
+### Articles 
+[Blockforums - Denarius Announces Beta of Kronos Wallet and Chat](https://blockforums.org/topic/1259-denarius-announces-beta-of-kronos-wallet-and-chat/)  
+[Coinfellowship - DENARIUS ANNOUNCES BETA OF KRONOS WALLET AND CHAT](https://coinfellowship.com/denarius-news/denarius-announces-beta-of-kronos-wallet-and-chat/)  
+[2 News - Denarius Announces Beta of Kronos Wallet and Chat](https://www.ktvn.com/story/43208622/denarius-announces-beta-of-kronos-wallet-and-chat)  
+[Fox 40 - Denarius Announces Beta of Kronos Wallet and Chat](https://www.wicz.com/story/43208622/denarius-announces-beta-of-kronos-wallet-and-chat)  
+[Benzinga - Denarius Announces Beta of Kronos Wallet and Chat](https://www.benzinga.com/pressreleases/21/01/r19248587/denarius-announces-beta-of-kronos-wallet-and-chat)  
 [My Journey Into The Rabbit Hole Of Cryptocurrency, Since 2009](https://themerkle.com/my-journey-into-the-rabbit-hole-of-cryptocurrency-since-2009/)  
 [
 Cryptocurrency
