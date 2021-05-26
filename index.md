@@ -4,7 +4,7 @@ title: [D] Denarius Links
 tagline: Denarius Coin Links
 description: Denarius Crypto Links
 ---
-# ![Denarius](https://denarius.io/wp-content/uploads/2017/11/denarius-256.png)
+# ![Denarius](https://denarius.io/wp-content/uploads/2020/06/denariuswhitebig.svg)
 
 <table>
   <tr>
