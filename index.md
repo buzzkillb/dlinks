@@ -105,6 +105,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [How to Stake Denarius Coins](https://denariustalk.org/index.php?/topic/295-how-to-stake-denarius-coins/)  
 [Using Chaindata](https://denariustalk.org/index.php?/topic/157-sync-denarius-fast-any-os-chaindatazip/)  
 [Create Denarius.conf](https://denariustalk.org/index.php?/topic/205-how-to-create-denariusconf-windows-10/)  
+[Denarius Snap Daemon FortunaStake Guide [Masternode SNAP - TOR - GUIDE]](https://blockforums.org/topic/1310-denarius-snap-daemon-fortunastake-guide-masternode-snap-tor-guide/)  
 
 ### Apps
 **Chrome**  
@@ -128,7 +129,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://masternodec.com/D.html](https://masternodec.com/D.html)  
 [https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD](https://masternodes.plus/coin.html?coin=Denarius%20(DNR)&currency=USD)  
 [https://www.mintnodes.com/coins/DNR](https://www.mintnodes.com/coins/DNR)  
-[Denarius Fortuna Stake Hosting](https://fortunastakehosting.com/)  
 
 ### Stats  
 [[D] Staking and FortunaStake Calculator](https://pos.watch/)  
