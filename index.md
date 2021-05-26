@@ -23,7 +23,7 @@ description: Denarius Crypto Links
     <td>10 Blocks</td>
     <td>POW/POS</td>
     <td>Tribus</td>
-    <td>Rings Sigs and Masternodes</td>
+    <td>Masternodes / Decentralized Domain Names / IPFS</td>
   </tr>
 </table>
 
