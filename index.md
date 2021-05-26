@@ -81,12 +81,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 **Southxchange**  
 [https://www.southxchange.com/Market/Book/D/BTC](https://www.southxchange.com/Market/Book/D/BTC)  
 [https://www.southxchange.com/Market/Book/D/USD](https://www.southxchange.com/Market/Book/D/USD)  
-**Unnamed Exchange**  
-[https://www.unnamed.exchange/Exchange?market=D_BTC](https://www.unnamed.exchange/Exchange?market=D_BTC)  
-[https://www.unnamed.exchange/Exchange?market=D_LTC](https://www.unnamed.exchange/Exchange?market=D_LTC)  
-[https://www.unnamed.exchange/Exchange?market=D_DOGE](https://www.unnamed.exchange/Exchange?market=D_DOGE)  
-[https://www.unnamed.exchange/Exchange?market=D_uTip](https://www.unnamed.exchange/Exchange?market=D_uTip)  
-[https://www.unnamed.exchange/Exchange?market=D_ETH](https://www.unnamed.exchange/Exchange?market=D_ETH)  
 
 ### Block Explorers
 [Coinexplorer](https://www.coinexplorer.net/D)  
@@ -176,6 +170,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://www.cryptocurrencychart.com/coin/DNR](https://www.cryptocurrencychart.com/coin/DNR)  
 [https://coincodex.com/crypto/denarius-dnr/exchanges/](https://coincodex.com/crypto/denarius-dnr/exchanges/)  
 [https://neironix.io/cryptocurrency/denarius](https://neironix.io/cryptocurrency/denarius)  
+[https://cryptoli.st/c/denarius-d](https://cryptoli.st/c/denarius-d)  
 
 ### Videos  
 [Denarius (D) Cryptocurrency Development - 3 YEARS in 10 minutes](https://www.youtube.com/watch?v=HMBg5936xFg)  
