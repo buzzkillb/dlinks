@@ -222,5 +222,4 @@ The first new decentralized fair payment system for masternodes - Crypto Mak](ht
 [https://themerkle.com/bitcoin-flying-high-for-long/](https://themerkle.com/bitcoin-flying-high-for-long/)  
 [https://btfd.shop/dnr-denarius-ancient-money-for-the-new-world/](https://btfd.shop/dnr-denarius-ancient-money-for-the-new-world/)  
 [https://medium.com/@Panama_TJ/denarius-intro-504ba3f16728](https://medium.com/@Panama_TJ/denarius-intro-504ba3f16728)  
-[https://www.dashforcenews.com/denarius-the-next-new-payment-coin/](https://www.dashforcenews.com/denarius-the-next-new-payment-coin/)  
-[https://www.geekxplore.com/what-is-denarius-coin.html](https://www.geekxplore.com/what-is-denarius-coin.html)  
+[https://www.dashforcenews.com/denarius-the-next-new-payment-coin/](https://www.dashforcenews.com/denarius-the-next-new-payment-coin/)   
