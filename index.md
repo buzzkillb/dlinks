@@ -43,6 +43,7 @@ description: Denarius Crypto Links
 ### Source Code and Project
 [https://github.com/carsenk](https://github.com/carsenk)  
 [https://github.com/carsenk/denarius](https://github.com/carsenk/denarius)  
+[https://github.com/carsenk/kronos](https://github.com/carsenk/kronos)  
 [https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide](https://github.com/carsenk/denarius/wiki/Denarius-Visual-Guide)  
 [https://github.com/carsenk/denariusstats](https://github.com/carsenk/denariusstats)  
 [https://github.com/carsenk/electrumx](https://github.com/carsenk/electrumx)  
@@ -88,7 +89,7 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 
 ### Wallets
 [QT Wallet](https://github.com/carsenk/denarius/releases)  
-[Kronos](https://github.com/carsenk/kronos)  
+[Kronos](https://kronoswallet.com/)  
 [Snap Wallet](https://snapcraft.io/denarius)  
 [Denarius MiniKey Generation & Converter Tool](https://carsenk.github.io/)  
 [Denariusd PPA](https://launchpad.net/~denariuscoin/+archive/ubuntu/ppa)  
