@@ -145,7 +145,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 ### Swag
 [HODL.market](https://hodl.market)  
 [https://btfd.shop/](https://btfd.shop/)  
-[https://whopper.io/product-category/dnr/](https://whopper.io/product-category/dnr/)  
 
 ### Misc OS  
 [Raspberry PI Wallet Compile Script](https://github.com/buzzkillb/denarius-pi3)  
