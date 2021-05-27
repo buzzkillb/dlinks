@@ -192,8 +192,6 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [Benzinga - Denarius Announces Beta of Kronos Wallet and Chat](https://www.benzinga.com/pressreleases/21/01/r19248587/denarius-announces-beta-of-kronos-wallet-and-chat)  
 [Crypto News BTC - Denarius Announces Beta of Kronos Wallet and Chat](https://cryptonewsbtc.org/2021/01/21/denarius-announces-beta-of-kronos-wallet-and-chat/)  
 [My Journey Into The Rabbit Hole Of Cryptocurrency, Since 2009](https://themerkle.com/my-journey-into-the-rabbit-hole-of-cryptocurrency-since-2009/)  
-[
-Cryptocurrency  
 [[D] Staking Stats July 28, 2019](https://medium.com/@cryptoBuzzB/d-staking-stats-july-28-2019-d7798c1db22b)  
 [[D] Staking Stats July 27, 2019](https://medium.com/@cryptoBuzzB/d-staking-stats-july-27-2019-5ff0a2fb93f2)  
 [[D] Staking Stats July 26, 2019](https://medium.com/@cryptoBuzzB/d-staking-stats-july-26-2019-63d5ac5ad7d4)  
