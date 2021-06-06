@@ -68,6 +68,8 @@ Hashtags [$DNR](https://twitter.com/search?q=%24DNR&src=typd) [#Denariuscoin](ht
 [https://twitter.com/thenkse](https://twitter.com/thenkse)  
 [https://twitter.com/dnr_ticker](https://twitter.com/dnr_ticker)  
 [https://twitter.com/denariibot](https://twitter.com/denariibot)  
+[https://bitclout.com/u/denariuscoin](https://bitclout.com/u/denariuscoin)  
+[https://bitclout.com/u/carsenk](https://bitclout.com/u/carsenk)  
 [Official Reddit](https://www.reddit.com/r/Denarius/)  
 [https://www.reddit.com/r/denariuscoin/](https://www.reddit.com/r/denariuscoin/)  
 [Facebook](https://www.facebook.com/denariuscrypto/)  
